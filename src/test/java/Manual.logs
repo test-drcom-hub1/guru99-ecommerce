@@ -1,0 +1,6 @@
+29/08/2017 14:40:26 devpinoyLogger opening website
+29/08/2017 14:40:30 devpinoyLogger click on Advanced Search link
+29/08/2017 14:40:34 devpinoyLogger Search value Price from 151 to 1000
+29/08/2017 14:40:41 devpinoyLogger verify print console all product name and price
+29/08/2017 14:40:41 devpinoyLogger verify print console all product name and price: PASSED
+29/08/2017 14:40:41 devpinoyLogger closing website
